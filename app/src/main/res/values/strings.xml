@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Wisata Indonesia (Kelompok 3) </string>
+    <string-array name="data_nama">
+        <item>Bromo</item>
+        <item>Bunaken</item>
+        <item>Candi Borobudur</item>
+        <item>Danau Toba</item>
+        <item>Kawahijen</item>
+        <item>Nusapendia</item>
+        <item>Pulau Komodo</item>
+        <item>Raja Empat</item>
+        <item>Toraja</item>
+        <item>Wakatobi</item>
+    </string-array>
+
+    <string-array name="data_deskripsi">
+        <item>Gunung Bromo tidak ada duanya dan membuat para pengunjung dapat merasakan pemandangan yang fantastis dan spektakuler</item>
+        <item>Bunaken menjadi salah satu objek wisata di Indonesia yang mengundang decak kagum karena keindahan taman bawah lautnya yang sulit ditemukan di negara lain</item>
+        <item>Candi yang dibangun pada masa kerajaan Mataram kuno ini merupakan warisan budaya dan sejarah Indonesia yang terkenal akan arsitektur yang memukau.</item>
+        <item>Danau dengan keindahan yang tidak tertandingi ini merupakan danau vulkanik terbesar di Asia Tenggara dan terbesar kedua di dunia setelah Danau Victoria.</item>
+        <item>Salah satu daya pikatnya adalah blue fire atau pesona api biru yang menyala dari kawah Gunung Ijen</item>
+        <item>Salah satu objek wisata di Bali yang populer di mata dunia saat ini adalah Nusa Penida</item>
+        <item>Pulau yang berlokasi di Kepulauan Nusa Tenggara Timur ini merupakan rumah bagi ratusan Komodo2</item>
+        <item>Surga dunia di Indonesia selanjutnya adalah kepulauan Raja Ampat yang terletak di Papua Barat dengan kekayaan laut terlengkap di bumi</item>
+        <item>Terletak di Sulawesi Selatan dikawasan pegunungan yang indah, Toppers masih bisa melihat uniknya keseharian dan tradisi masyarakat adat Tana Toraja.</item>
+        <item>Taman Nasional Wakatobi juga merupakan salah satu tujuan wisata bawah laut yang populer dan mendunia</item>
+    </string-array>
+    <array name="data_foto">
+        <item>@drawable/bromo</item>
+        <item>@drawable/bunaken</item>
+        <item>@drawable/candiborobudur</item>
+        <item>@drawable/danautoba</item>
+        <item>@drawable/kawahijen</item>
+        <item>@drawable/nusapenida</item>
+        <item>@drawable/pulaukomodo</item>
+        <item>@drawable/rajaempat</item>
+        <item>@drawable/toraja</item>
+        <item>@drawable/wakatobi</item>
+    </array>
+</resources>
